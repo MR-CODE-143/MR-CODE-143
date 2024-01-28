@@ -1,18 +1,21 @@
-# 💫 About Me:
-NOOB CODER
+<h1 align="center">Hi HADI ANHAF</h1>
+<h3 align="center">NOOB • ❲ AWM ❳ • CODER</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-code-143&label=Profile%20views&color=0e75b6&style=flat" alt="mr-code-143" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hadi.anhaf.09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadianhaf) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-code-143" alt="mr-code-143" /></a> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MR-CODE-143&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MR-CODE-143&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-CODE-143&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/hadi.anhaf.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadi.anhaf.09" height="30" width="40" /></a>
+<a href="https://instagram.com/hadianhaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadianhaf" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=MR-CODE-143&icon=2&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-code-143&show_icons=true&locale=en&layout=compact" alt="mr-code-143" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-code-143&show_icons=true&locale=en" alt="mr-code-143" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-code-143&" alt="mr-code-143" /></p>
